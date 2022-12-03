@@ -1,18 +1,6 @@
 # Projet-2048
 Projet 2048 - Lucas et Conrad
 
-repartition du travail:
-Instruction 0 - Conrad
-Instruction 1 - Conrad
-Instruction 2 - Lucas 
-Instruction 3 - Lucas
-Instruction 4 - Lucas
-Instruction 5 - Conrad
-Instruction 6 - Lucas
-Instruction 7 - Lucas
-Instruction 8 - Conrad
-Instruction 9 - Lucas
-
 Aborescence:
 partie.py - Il contient la classe Pile pour le fichier last_games.bk, la fonction pour sauvegarder et la class Partie
 pour le deroulement du jeu et de l'affichage
